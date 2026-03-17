@@ -1,7 +1,7 @@
 # Hi there! I'm Kaiser 🚀
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kaiser-code-lab/kaiser-code-lab/main/la-ruta-a-tu-imagen.png" width="200" alt="Kaiser Code Lab Avatar" />
+  <img src="https://raw.githubusercontent.com/kaiser-code-lab/kaiser-code-lab/main/kaiser-code-lab.png" width="200" alt="Kaiser Code Lab Avatar" />
   <br>
   <h3>Passionate Developer | Coding Enthusiast | Tech Explorer</h3>
   
