@@ -123,6 +123,6 @@ I'm always open to discussing new projects, collaboration opportunities, or just
 </p>
 
 <div align="center">
-  <sub>Visits to my profile:</sub><br>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkaiser-code-lab&count_bg=%2Ftu_usuario_de_github&title_bg=%2Ftu_usuario_de_github&icon=&icon_color=%2Ftu_usuario_de_github&title=hits&edge_flat=false" alt="Hits" />
+  <sub>Profile Views</sub><br>
+  <img src="https://komarev.com/ghpvc/?username=kaiser-code-lab&color=blueviolet&style=flat-square" alt="Kaiser Code Lab Views" />
 </div>
